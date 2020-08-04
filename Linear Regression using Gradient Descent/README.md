@@ -20,4 +20,4 @@ Use __Module__ and __Optimizer__ from Pytorch to help build the ML Model
 
 Much easier!
 
-Do some comparation among optimizer __Adam, RMSprop, SGD__. There speed to convergence can vary time from time, which is pretty weird for me.
+Do some comparation among optimizer __Adam, RMSprop, SGD__. Their speed to convergence can vary time from time, which is pretty weird for me.
